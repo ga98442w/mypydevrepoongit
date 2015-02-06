@@ -1,4 +1,4 @@
-__author__ = 'GilbertAlipui'
+__author__ = 'GilbertAlipuiJr'
 
 from tkinter import * # Import all definitions from tkinter
 
